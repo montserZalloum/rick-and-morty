@@ -3,6 +3,8 @@
 
 ## Introduction
 This project presents all the characters of **Rick and Morty** beautifully and simply
+💻 Live example -> https://mancillajonathan.github.io/rick-morty-vanillajs/
+
 ## Technologies & Tools
 I used React, Redux, Graphql, Jest, Typescript, Material UI
 
