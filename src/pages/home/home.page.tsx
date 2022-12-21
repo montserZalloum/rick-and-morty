@@ -3,7 +3,6 @@ import LandingSection from '../../components/landing/LandingSection';
 import CharactersSection from '../../components/characters/CharactersSection';
 
 const Home: FC = () => {
-    // const posts = useGetPosts();
 
     return (
         <div className="home">
