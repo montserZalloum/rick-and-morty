@@ -1,5 +1,5 @@
 # Rick and Morty Characters
-<img src="https://github.com/montserZalloum/rick-and-morty/blob/master/public/assets/images/git-img-2.jpeg" />
+<img src="https://github.com/montserZalloum/rick-and-morty/blob/master/public/assets/images/git-img-2.jpeg" alt="rick" />
 
 ## Introduction
 This project presents all the characters of **Rick and Morty** beautifully and simply

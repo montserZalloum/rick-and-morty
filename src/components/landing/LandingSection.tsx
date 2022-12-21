@@ -5,7 +5,7 @@ function LandingSection() {
   return (
     <Stack component="section" direction="column" pt={4} className="landing-section">
         <LandingContainer slogan="“Wubba Lubba Dub Dub!”" />
-        <img src="/assets/images/land-bg.png" width="100%" />
+        <img src="/assets/images/land-bg.png" width="100%" alt="landing image" />
     </Stack>
   )
 }

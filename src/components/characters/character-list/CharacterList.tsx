@@ -30,7 +30,7 @@ function CharacterList() {
     <>
         <Box data-testid="characters-list" className="character-list" sx={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(4, 1fr)',
+            gridTemplateColumns: 'repeat(5, 1fr)',
             gap: 4,
         }}>
             {data?.characters?.results?.map((character,index)=>(
