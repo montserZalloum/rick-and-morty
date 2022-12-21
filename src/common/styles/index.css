@@ -1,0 +1,10 @@
+:root {
+    --main-color: #86c345;
+}
+body {
+    margin: 0;
+    background-color: #fdf7f7;
+}
+input,body {
+    font-family: 'Neucha';
+}
