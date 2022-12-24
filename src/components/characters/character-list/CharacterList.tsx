@@ -35,7 +35,7 @@ function CharacterList() {
         }}>
             {data?.characters?.results?.map((character,index)=>(
                 <Grid xs={6} sm={3} item key={character?.id} >
-                    <CharacterCard index={index}  character={character || null} />
+                    <CharacterCard index={index} character={character || null} />
                 </Grid>
             ))}
         </Box>

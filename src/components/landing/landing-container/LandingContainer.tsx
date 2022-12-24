@@ -1,6 +1,7 @@
 import { Stack } from "@mui/system";
 import { Typography } from "@mui/material";
 import '../LandingSection.css'
+
 type IProps = {
     slogan: String
 }

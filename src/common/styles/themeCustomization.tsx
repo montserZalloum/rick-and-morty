@@ -5,14 +5,14 @@ import { ThemeProvider, createTheme } from '@mui/material';
 
 const theme = createTheme({
   typography: {
-      fontFamily: 'Neucha, Arial',
+    fontFamily: 'Neucha, Arial',
   }
 });
 
 function Theme(props:any) {
   return (
     <ThemeProvider theme={theme}>
-        {props.children}
+      {props.children}
     </ThemeProvider>
   )
 }

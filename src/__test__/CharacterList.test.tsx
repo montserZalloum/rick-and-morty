@@ -85,7 +85,7 @@ it("when data fetched :: success", async () => {
 });
 
 // ***************
-// PAGINATION CLICK => HAPPY SCENARIO
+// PAGINATION CLICK
 // ***************
 it("after data fetched, when the user select a page from the pagination bar :: click", async () => {
   const { findByLabelText, findByTestId } = render(<MockCharacterList />);
